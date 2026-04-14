@@ -17,9 +17,5 @@ This project is developed as part of an industrial internship. It is a simple Ba
 2. Run:
    python BankingInformationSystem.py
 
-## 🔗 Project Links
-- Code Link: https://github.com/shivarjunchaturvedi/upskillcampus/blob/main/BankingInformationSystem.py
-- Report Link: (paste your PDF link after upload)
-
 ## 👨‍💻 Author
 Shivarjun Chaturvedi
